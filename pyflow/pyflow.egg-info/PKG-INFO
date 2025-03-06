@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pyflow
+Version: 0.0.10
+Home-page: 
+Author: KalebTroyer
+Author-email: kaleb.troyer@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: twine>=5.1.1; extra == "dev"
