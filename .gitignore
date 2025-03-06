@@ -1,3 +1,41 @@
-/.venv
-/build
-/dist
+
+# C++ build artifacts
+/build/
+/dist/
+/bin/
+/obj/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+*.o
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.dSYM/
+*.vcxproj*
+
+# virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# package management
+/pip-wheel-metadata/
+/poetry.lock
+/.mypy_cache/
+/.pytest_cache/
+
+# ide files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# misc
+*.log
+*.swp
+
