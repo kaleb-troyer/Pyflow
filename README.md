@@ -1,0 +1,1 @@
+A python package for calculating the heat transfer coefficient of a user-specified fluid moving through a variety of geometries. Fluid calculations are performed in C++ and called by the python wrapper. 
