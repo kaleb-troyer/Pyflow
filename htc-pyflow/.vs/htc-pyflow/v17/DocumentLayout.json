@@ -21,7 +21,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 395,
+          "DockedWidth": 340,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -38,8 +38,7 @@
               "RelativeToolTip": "dllmain.cpp",
               "ViewState": "AQIAACcAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-08T17:00:41.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T17:00:41.466Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "pipeline.cpp",
               "ToolTip": "C:\\source\\.repositories\\Pyflow\\htc-pyflow\\pipeline.cpp",
               "RelativeToolTip": "pipeline.cpp",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAFwAAAACAAAA",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwFwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-08T17:07:17.015Z",
               "EditorCaption": ""
@@ -57,7 +56,7 @@
           ]
         },
         {
-          "DockedWidth": 199,
+          "DockedWidth": 254,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -72,7 +71,7 @@
               "RelativeDocumentMoniker": "pipeline.h",
               "ToolTip": "C:\\source\\.repositories\\Pyflow\\htc-pyflow\\pipeline.h",
               "RelativeToolTip": "pipeline.h",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAD0AAAABAAAA",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-08T17:08:13.952Z",
               "EditorCaption": ""
