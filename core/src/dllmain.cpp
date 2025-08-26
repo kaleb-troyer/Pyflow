@@ -4,6 +4,8 @@
 
 #ifdef _MSC_VER
 #define DLL_EXPORT __declspec(dllexport)
+#elif defined(__GNUC__)
+#define DLL_EXPORT __attribute__((visibility("default")))
 #else
 #define DLL_EXPORT
 #endif
@@ -67,6 +69,9 @@ extern "C" {
 
 } // extern "C"
 
+#ifdef _WIN32
+#include <windows.h>
+
 // Standard DLL entry point.
 BOOL APIENTRY DllMain( 
     HMODULE hModule,
@@ -84,4 +89,6 @@ BOOL APIENTRY DllMain(
 
     return TRUE;
 }
+
+#endif
 
